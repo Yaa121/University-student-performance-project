@@ -1,1 +1,2 @@
 # University-student-performance-project
+This project leverages data analytics and visualization techniques to uncover hidden patterns in university student performance. By integrating attendance records, assignment scores, examination results, demographic information, and program-level analysis, it delivers actionable insights through interactive dashboards and performance intelligence reporting.
